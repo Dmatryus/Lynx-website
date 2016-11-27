@@ -39,22 +39,19 @@ body {
     margin-bottom: 3%;
 }
 
-#content img
-{
+#content img {
     width: 40vw;
     padding-left: 2vw;
 }
 
-#content #text_box
-{
+#content #text_box {
     width: 30vw;
     background-color: #ffffff;
     float: right;
     padding: 2.5vw;
 }
 
-#content #text_box p
-{
+#content #text_box p {
     color: #242423;
     font-size: 24px;
     font-weight: 100;
@@ -62,22 +59,17 @@ body {
     margin-bottom: 31px;
 }
 
-#footer
-{
+#footer {
     background-color: #065946;
     min-width: 100%;
     height: 120px;
     clear: both;
 }
 
-#footer p
-{
+#footer p {
     margin: 0 auto 0;
     text-align: center;
     color: #0F8168;
     font-size: 20px;
     line-height: 55px;
 }
-
-
-
