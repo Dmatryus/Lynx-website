@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Рыси - сайт-обозреватель</title>
+    <link rel="stylesheet" href="Style_Info.css">
+    
+    
+
+<body>
+    <div id="content">
+        <div id="header">
+            <a href="#">Главная</a>
+            <a href="#">Опсание рода</a>
+            <a href="#">Виды рысей</a>
+            <a href="#">Галерея</a>
+        </div>
+        <div class="gal">
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container0">
+	<div class="ws_images"><ul>
+		<li><img src="data0/images/background0.jpg" alt="background-0" title="background-0" id="wows0_0"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="data0/images/background0.jpg" title="background-0"><span><img src="data0/tooltips/background0.jpg" alt="background-0"/>1</span></a>
+		<a href="data0/images/caracal1.jpg" title="Caracal-1"><span>2</span></a>
+		<a href="data0/images/caracal_areal.png" title="Caracal_areal"><span>3</span></a>
+		<a href="data0/images/caracat.jpg" title="Caracat"><span>4</span></a>
+		<a href="data0/images/cat_tree.jpg" title="Cat_tree"><span>5</span></a>
+		<a href="data0/images/lynx0.jpg" title="Lynx-0"><span>6</span></a>
+		<a href="data0/images/lynx1.jpg" title="Lynx-1"><span>7</span></a>
+		<a href="data0/images/lynx2.jpg" title="Lynx-2"><span>8</span></a>
+		<a href="data0/images/lynx3.jpg" title="Lynx-3"><span>9</span></a>
+		<a href="data0/images/lynx4.jpg" title="Lynx-4"><span>10</span></a>
+		<a href="data0/images/lynx5.jpg" title="Lynx-5"><span>11</span></a>
+		<a href="data0/images/lynx6.jpg" title="Lynx-6"><span>12</span></a>
+		<a href="data0/images/lynxissiodorensis.jpg" title="Lynx-Issiodorensis"><span>13</span></a>
+		<a href="data0/images/lynx_areal.png" title="Lynx_areal"><span>14</span></a>
+		<a href="data0/images/lynx_canadensis1.jpg" title="Lynx_canadensis-1"><span>15</span></a>
+		<a href="data0/images/lynx_canadensis2.jpg" title="Lynx_canadensis-2"><span>16</span></a>
+		<a href="data0/images/lynx_canadensis_areal.jpg" title="Lynx_canadensis_areal"><span>17</span></a>
+		<a href="data0/images/lynx_den.jpg" title="Lynx_den"><span>18</span></a>
+		<a href="data0/images/lynx_earshd.jpg" title="Lynx_ears-hd"><span>19</span></a>
+		<a href="data0/images/lynx_ears.jpg" title="Lynx_ears"><span>20</span></a>
+		<a href="data0/images/lynx_family1.jpg" title="Lynx_family-1"><span>21</span></a>
+		<a href="data0/images/lynx_family2.jpg" title="Lynx_family-2"><span>22</span></a>
+		<a href="data0/images/lynx_family.jpg" title="Lynx_family"><span>23</span></a>
+		<a href="data0/images/lynx_fun1.jpg" title="Lynx_fun-1"><span>24</span></a>
+		<a href="data0/images/lynx_fun2.jpg" title="Lynx_fun-2"><span>25</span></a>
+		<a href="data0/images/lynx_hunt.jpg" title="Lynx_hunt"><span>26</span></a>
+		<a href="data0/images/lynx_kittens.jpg" title="Lynx_kittens"><span>27</span></a>
+		<a href="data0/images/lynx_lover1.jpg" title="Lynx_lover-1"><span>28</span></a>
+		<a href="data0/images/lynx_lover2.jpg" title="Lynx_lover-2"><span>29</span></a>
+		<a href="data0/images/lynx_lover3.jpg" title="Lynx_lover-3"><span>30</span></a>
+		<a href="data0/images/lynx_lover4.jpg" title="Lynx_lover-4"><span>31</span></a>
+		<a href="data0/images/lynx_lover5.jpg" title="Lynx_lover-5"><span>32</span></a>
+		<a href="data0/images/lynx_lover6.jpg" title="Lynx_lover-6"><span>33</span></a>
+		<a href="data0/images/lynx_lynx1.jpg" title="Lynx_lynx-1"><span>34</span></a>
+		<a href="data0/images/lynx_lynx2.jpg" title="Lynx_lynx-2"><span>35</span></a>
+		<a href="data0/images/lynx_lynx3.jpg" title="Lynx_lynx-3"><span>36</span></a>
+		<a href="data0/images/lynx_lynx_areal.png" title="Lynx_lynx_areal"><span>37</span></a>
+		<a href="data0/images/lynx_money1.jpg" title="Lynx_money-1"><span>38</span></a>
+		<a href="data0/images/lynx_pardinus1.jpg" title="Lynx_pardinus-1"><span>39</span></a>
+		<a href="data0/images/lynx_pardinus2.jpg" title="Lynx_pardinus-2"><span>40</span></a>
+		<a href="data0/images/lynx_pardinus_areal.png" title="Lynx_pardinus_areal"><span>41</span></a>
+		<a href="data0/images/lynx_pawn.jpg" title="Lynx_pawn"><span>42</span></a>
+		<a href="data0/images/lynx_prey.jpg" title="Lynx_prey"><span>43</span></a>
+		<a href="data0/images/lynx_rufus1.jpg" title="Lynx_rufus-1"><span>44</span></a>
+		<a href="data0/images/lynx_rufus2.jpg" title="Lynx_rufus-2"><span>45</span></a>
+		<a href="data0/images/lynx_rufus_areal.jpg" title="Lynx_rufus_areal"><span>46</span></a>
+		<a href="data0/images/lynx_tail.jpg" title="Lynx_tail"><span>47</span></a>
+		<a href="data0/images/lynx_vs_fox.jpg" title="Lynx_vs_fox"><span>48</span></a>
+		<a href="data0/images/lynx_vs_wolfs.jpg" title="Lynx_vs_wolfs"><span>49</span></a>
+		<a href="data0/images/marbled_cat_area.png" title="Marbled_cat_area"><span>50</span></a>
+		<a href="data0/images/pardofelis_marmorata.jpg" title="Pardofelis_marmorata"><span>51</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">wowslider.net</a> by WOWSlider.com v8.7</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine0/wowslider.js"></script>
+	<script type="text/javascript" src="engine0/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
+
+        </div>
+    </div>
+    <div id="footer">
+        <p>Если Вы хотите поделиться информацией о видах или изображениями, пишите на почту: dmatryus.sqrt49@yandex.ru</p>
+        <p>&copy; Dmatryus Detry, 2016</p>
+    </div>
+</body>
+
+</html>
