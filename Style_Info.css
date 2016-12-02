@@ -75,6 +75,15 @@ body {
     vertical-align: top;
 }
 
+.text figure
+{
+    display: block;
+    width: inherit;
+    margin: inherit;
+    background-color: inherit;
+    text-align: center;
+}
+
 .images {
     width: calc(40vw - 95px);
     display: inline-block;
