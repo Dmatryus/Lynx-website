@@ -40,23 +40,20 @@ body {
 }
 
 #content img {
-    width: 40vw;
-    padding-left: 2vw;
+    display: inline-block;
+    vertical-align: top;
+    width: 35vw;
+    margin: 2vw;
 }
 
-#content #text_box {
-    width: 30vw;
-    background-color: #ffffff;
-    float: right;
-    padding: 2.5vw;
-}
-
-#content #text_box p {
-    color: #242423;
+#content p {
+    width: calc(35vw - 60px);
     font-size: 24px;
-    font-weight: 100;
-    text-align: left;
-    margin-bottom: 31px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 2vw;
+    display: inline-block;
+    vertical-align: top;
 }
 
 #footer {
